@@ -29,3 +29,9 @@ p {
   font-family: helvetica;
   font-size: 14px;
 }
+.special{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
