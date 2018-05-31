@@ -7,3 +7,16 @@ H1 {
   font-weight: bold;
   color: white;
 }
+a {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+div {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+h2{
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
