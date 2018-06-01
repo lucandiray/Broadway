@@ -1,5 +1,5 @@
 body {
-  text-align: center;
+  text-align: horizontal;
 }
 H1 {
   font-family: Helvetica;
@@ -11,10 +11,9 @@ H1 {
   font-family: Helvetica;
   font-size: 18px;
   color: white;
-}
-div {
   background-image: url("../photos/the-flatiron-building.png");
 }
+
 h2{
   font-family: helvetica;
   font-size: 32px;
@@ -34,4 +33,5 @@ p {
   font-size: 23px;
   font-weight: bold;
   color: white;
+  background-image: url("../photos/the-flatiron-building.png");
 }
