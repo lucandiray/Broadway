@@ -1,5 +1,5 @@
 body {
-  text-align: horizontal;
+  text-align: horizontal, center;
 }
 H1 {
   font-family: Helvetica;
@@ -11,7 +11,6 @@ H1 {
   font-family: Helvetica;
   font-size: 18px;
   color: white;
-  background-image: url("../photos/the-flatiron-building.png");
 }
 
 h2{
@@ -24,6 +23,12 @@ h3 {
   font-size: 23px;
   font-weight: bold;
 }
+
+.special,
+.header {
+    background-image: url("../photos/the-flatiron-building.png");
+}
+
 p {
   font-family: helvetica;
   font-size: 14px;
@@ -33,5 +38,14 @@ p {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: url("../photos/the-flatiron-building.png");
+}
+
+.footer {
+  text-align: left;
+  font-family: helvetica;
+  color: white;
+  background-color: dimgray;
+}
+.footer-text {
+    font-size:11px;
 }
